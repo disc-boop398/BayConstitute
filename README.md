@@ -4,7 +4,7 @@ Play in buildings and explore the flat design.
 ## Good things about BayConstitute
 
 ### 1. Easy to edit!
-All you need to do is go to https://scratch.mit.edu/projects/432505083/, click 'Remix', edit the project, then convert to .html at https://sheeptester.github.io/htmlifier/!
+All you need to do is go to (link removed D:), click 'Remix', edit the project, then convert to .html at https://sheeptester.github.io/htmlifier/!
 ### 2. Open sourced!
 Use the instructions above to make your edit of BayConstitute!
 ### 3. Better than a wall!
