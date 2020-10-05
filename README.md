@@ -12,6 +12,7 @@ You can't play a wall, but you can play BayConstitute!
 
 ## DO NOT
 -Edit the straight code, it contains the project and the Scratch Launcher, both of which could get broken easily!
+
 -Make any innapropriate things, it ruins the game and is not the way you want to go!
 
 
